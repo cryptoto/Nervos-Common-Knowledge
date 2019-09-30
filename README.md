@@ -2,7 +2,7 @@
 description: Relevant resources on CKB mining
 ---
 
-# Initial page
+# Mine!CKB
 
 * How to mine CKB:[https://docs.nervos.org/getting-started/mine](https://docs.nervos.org/getting-started/mine)
 * CKB Explorer:[http://explorer.nervos.org](http://explorer.nervos.org/)
