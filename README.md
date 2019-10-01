@@ -23,7 +23,7 @@ description: Relevant resources on CKB mining
   * [MinerBabe](https://www.minerbabe.com/pc.html/#/)
   * [MinerOS](https://www.mineros.cn/index.php/zh/newprofit/394-ckb-nervos)
   * [Wondermole](https://wondermole.io/)
-  * [轻松矿工](http://www.qskg.top/ckb.html)
+  * [Qingsongkuanggong](http://www.qskg.top/ckb.html)
 * Nervos Positioning Paper:[https://github.com/nervosnetwork/rfcs/blob/79a6774eb16f5077617f3eef580653316fbdcb16/rfcs/0001-positioning/0001-positioning.md](https://github.com/nervosnetwork/rfcs/blob/79a6774eb16f5077617f3eef580653316fbdcb16/rfcs/0001-positioning/0001-positioning.md)
 * Eaglesong, a new PoW Hash Function used in CKB:[https://medium.com/nervosnetwork/the-proof-of-work-function-of-nervos-ckb-3cc8364464d9](https://medium.com/nervosnetwork/the-proof-of-work-function-of-nervos-ckb-3cc8364464d9)
 * Consensus RFC explanation:[https://medium.com/nervosnetwork/nervos-consensus-rfc-39d5146d148](https://medium.com/nervosnetwork/nervos-consensus-rfc-39d5146d148)
