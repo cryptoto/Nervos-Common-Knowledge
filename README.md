@@ -6,7 +6,7 @@ description: Relevant resources on CKB mining
 
 * [How to mine CKB](https://docs.nervos.org/getting-started/mine)
 * [CKB Explorer](http://explorer.nervos.org/)
-* Testnet mining competition \(next round starting Oct 5, 2019\) :[mineyourownbusiness.nervos.org](http://mineyourownbusiness.nervos.org/)
+* [Testnet mining competition] \(ongoing, from June till Nov15 2019\)(http://mineyourownbusiness.nervos.org/)
 * Current available mining pools \(testnet\)
   * [BeePool](https://www.beepool.org/tutorial/ckb)
   * [F2Pool](https://blog.f2pool.com/zh/help/mining-tutorial/start-mining/ckb)
@@ -27,7 +27,7 @@ description: Relevant resources on CKB mining
 
 * If you want to build your own CKB mining pool:
 
-  * [BTC.com](http://BTC.com) open-sourced CKB mining pool(https://github.com/btccom/btcpool)
+  * [BTC.com open-sourced CKB mining pool](https://github.com/btccom/btcpool)
   * [Stratum protocols developed by F2pool and UU pool](https://github.com/f2pool/proposals/blob/master/20190904-nervos-common-stratum-protocol.md)
 
 * [Nervos Positioning Paper](https://github.com/nervosnetwork/rfcs/blob/79a6774eb16f5077617f3eef580653316fbdcb16/rfcs/0001-positioning/0001-positioning.md)
