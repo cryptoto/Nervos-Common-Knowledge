@@ -40,8 +40,7 @@
 
 ### Mining Pools and Softwares
 
- Current available mining pools \(testnet\)  
-
+ Current available mining pools \(testnet\)
 
 * [BeePool](https://www.beepool.org/tutorial/ckb)
 * [F2Pool](https://blog.f2pool.com/zh/help/mining-tutorial/start-mining/ckb)
@@ -50,11 +49,10 @@
 * [HuobiPool](https://www.huobipool.com/pow/innovative)
 * [BTCPool](https://pool.btc.com/)
 
-Mining Pools under development \(that we are aware of\):
+Mining Pools under development \(that we are aware of\)
 
-[2Miners](https://2miners.com/ckb-mining-pool)
-
-[ViaBTC](https://www.viabtc.com/)
+* [2Miners](https://2miners.com/ckb-mining-pool)
+* [ViaBTC](https://www.viabtc.com/)
 
  Mining Softwares that support CKB mining:
 
