@@ -38,7 +38,7 @@
   
 
 
-### Mining Pools and Softwares
+#### Mining Pools and Softwares
 
  Current available mining pools \(testnet\)
 
