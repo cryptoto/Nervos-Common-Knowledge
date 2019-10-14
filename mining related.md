@@ -6,7 +6,7 @@ description: Relevant resources on CKB mining
 
 * ​[How to mine CKB](https://docs.nervos.org/getting-started/mine)
 * [CKB Explorer](http://explorer.nervos.org/)
-* [Testnet mining competition](http://mineyourownbusiness.nervos.org/) \ongoing, from June till Nov15 2019 
+* [Testnet mining competition](http://mineyourownbusiness.nervos.org/) ongoing, from June till Nov15 2019 
 * Current available mining pools \(testnet\)
   * [BeePool](https://www.beepool.org/tutorial/ckb)
   * [F2Pool](https://blog.f2pool.com/zh/help/mining-tutorial/start-mining/ckb)
