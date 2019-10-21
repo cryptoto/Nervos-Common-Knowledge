@@ -9,11 +9,13 @@ description: Relevant resources on CKB mining
 * [Testnet mining competition](http://mineyourownbusiness.nervos.org/) ongoing, from June till Nov15 2019 
 * Current available mining pools \(testnet\)
   * [BeePool](https://www.beepool.org/tutorial/ckb)
+  * [BTCPool](https://pool.btc.com/)
   * [F2Pool](https://blog.f2pool.com/zh/help/mining-tutorial/start-mining/ckb)
+  * [HashPool](https://hashpool.com/)
+  * [HuobiPool](https://www.huobipool.com/pow/innovative)
   * [SparkPool](https://support.sparkpool.com/hc/zh-cn/articles/360000440961)
   * [UUPool](https://uupool.cn/tutorial/66)
-  * [HuobiPool](https://www.huobipool.com/pow/innovative)
-  * [BTCPool](https://pool.btc.com/)
+  * [ViaBTC Pool](https://pool.viabtc.com/)
 * Mining [tutorials](https://talk.nervos.org/t/mining-tutorials-from-mining-pools/3573) by mining pools
 * Mining Pools under development \(that we are aware of\):
   * [2Miners](https://2miners.com/ckb-mining-pool)
