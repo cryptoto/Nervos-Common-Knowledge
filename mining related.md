@@ -19,7 +19,6 @@ description: Relevant resources on CKB mining
 * Mining [tutorials](https://talk.nervos.org/t/mining-tutorials-from-mining-pools/3573) by mining pools
 * Mining Pools under development \(that we are aware of\):
   * [2Miners](https://2miners.com/ckb-mining-pool)
-  * ViaBTC 
 * Mining Softwares that support CKB mining:
   * [HiveOS](https://hiveos.farm/)
   * [MinerBabe](https://www.minerbabe.com/pc.html/#/)
