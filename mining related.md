@@ -7,6 +7,10 @@ description: Relevant resources on CKB mining
 * ​[How to mine CKB](https://docs.nervos.org/getting-started/mine)
 * [CKB Explorer](http://explorer.nervos.org/)
 * [Testnet mining competition](http://mineyourownbusiness.nervos.org/) ongoing, from June till Nov15 2019 
+* GPU Miners
+  * [NBMiner](https://github.com/NebuTech/NBMiner)
+  * [CKBminer](https://github.com/nervosnetwork/ckb-miner)
+  * [Bminer](https://www.bminer.me/releases/)
 * Current available mining pools \(testnet\)
   * [BeePool](https://www.beepool.org/tutorial/ckb)
   * [BTCPool](https://pool.btc.com/)
@@ -16,9 +20,9 @@ description: Relevant resources on CKB mining
   * [SparkPool](https://support.sparkpool.com/hc/zh-cn/articles/360000440961)
   * [UUPool](https://uupool.cn/tutorial/66)
   * [ViaBTC Pool](https://pool.viabtc.com/)
-* Mining [tutorials](https://talk.nervos.org/t/mining-tutorials-from-mining-pools/3573) by mining pools
 * Mining Pools under development \(that we are aware of\):
   * [2Miners](https://2miners.com/ckb-mining-pool)
+* Mining [tutorials](https://talk.nervos.org/t/mining-tutorials-from-mining-pools/3573) by mining pools
 * Mining Softwares that support CKB mining:
   * [HiveOS](https://hiveos.farm/)
   * [MinerBabe](https://www.minerbabe.com/pc.html/#/)
