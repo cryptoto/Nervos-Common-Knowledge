@@ -15,6 +15,7 @@ description: Relevant resources on CKB mining
   * [BeePool](https://www.beepool.org/tutorial/ckb)
   * [BTCPool](https://pool.btc.com/)
   * [F2Pool](https://blog.f2pool.com/zh/help/mining-tutorial/start-mining/ckb)
+  * [GPUMINE](https://gpumine.zendesk.com/hc/zh-tw/sections/360007160651-CKB?fbclid=IwAR2capAvmK4AZrYvm4RXvGu898Veg1Y20DNhNHDKaHN4haCetsPvyoPe5wY)
   * [HashPool](https://hashpool.com/)
   * [HuobiPool](https://www.huobipool.com/pow/innovative)
   * [SparkPool](https://support.sparkpool.com/hc/zh-cn/articles/360000440961)
