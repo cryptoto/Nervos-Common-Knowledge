@@ -42,17 +42,20 @@
 
  Current available mining pools \(testnet\)
 
-* [BeePool](https://www.beepool.org/tutorial/ckb)
-* [F2Pool](https://blog.f2pool.com/zh/help/mining-tutorial/start-mining/ckb)
-* [SparkPool](https://support.sparkpool.com/hc/zh-cn/articles/360000440961)
-* [UUPool](https://uupool.cn/tutorial/66)
-* [HuobiPool](https://www.huobipool.com/pow/innovative)
-* [BTCPool](https://pool.btc.com/)
+  * [BeePool](https://www.beepool.org/tutorial/ckb)
+  * [BTCPool](https://pool.btc.com/)
+  * [F2Pool](https://blog.f2pool.com/zh/help/mining-tutorial/start-mining/ckb)
+  * [GPUMINE](https://gpumine.zendesk.com/hc/zh-tw/sections/360007160651-CKB?fbclid=IwAR2capAvmK4AZrYvm4RXvGu898Veg1Y20DNhNHDKaHN4haCetsPvyoPe5wY)
+  * [HashPool](https://hashpool.com/)
+  * [HuobiPool](https://matpool.io/)
+  * [MatPool](https://www.huobipool.com/pow/innovative)
+  * [SparkPool](https://support.sparkpool.com/hc/zh-cn/articles/360000440961)
+  * [UUPool](https://uupool.cn/tutorial/66)
+  * [ViaBTC Pool](https://pool.viabtc.com/)
 
 Mining Pools under development \(that we are aware of\)
 
 * [2Miners](https://2miners.com/ckb-mining-pool)
-* [ViaBTC](https://www.viabtc.com/)
 
  Mining Softwares that support CKB mining:
 
